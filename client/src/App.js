@@ -19,9 +19,9 @@ const router = createBrowserRouter(
   createRoutesFromElements(
     <Route path="/" element={<Navbar />}>
       <Route index element={<Home />} />
-      <Route path="/getstarted" element={<GetStarted />} />
-      <Route path="/about" element={<About />} />
-      <Route path="/support" element={<Support />} />
+      <Route path="getstarted" element={<GetStarted />} />
+      <Route path="about" element={<About />} />
+      <Route path="support" element={<Support />} />
     </Route>
   )
 );
