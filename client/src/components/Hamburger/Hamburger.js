@@ -1,6 +1,4 @@
 import React from 'react';
-import { NavLink } from 'react-router-dom';
-
 
 const Hamburger = () => {
     return (
@@ -11,8 +9,8 @@ const Hamburger = () => {
     >
       <g id="Group" data-name="Group" transform="translate(-294 -47)">
         <rect
-          id="Rectangle_3"
-          data-name="Rectangle 3"
+          id="Rectangle_1"
+          data-name="Rectangle 1"
           width="42"
           height="4"
           rx="2"
@@ -20,21 +18,21 @@ const Hamburger = () => {
           fill="#574c4c"
         />
         <rect
-          id="Rectangle_5"
-          data-name="Rectangle 5"
-          width="42"
-          height="4"
-          rx="2"
-          transform="translate(304 67)"
-          fill="#574c4c"
-        />
-        <rect
-          id="Rectangle_4"
-          data-name="Rectangle 4"
+          id="Rectangle_3"
+          data-name="Rectangle 3"
           width="42"
           height="4"
           rx="2"
           transform="translate(304 57)"
+          fill="#574c4c"
+        />
+        <rect
+          id="Rectangle_2"
+          data-name="Rectangle 2"
+          width="42"
+          height="4"
+          rx="2"
+          transform="translate(304 67)"
           fill="#574c4c"
         />
       </g>
